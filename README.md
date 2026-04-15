@@ -1,53 +1,53 @@
 <h1 align="center">Hi 👋, I'm Sushant Kore</h1>
-<h3 align="center">🎓 Final Year B.Tech CSE Student | AI & Software Developer</h3>
+<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+ML+Enthusiast;Software+Developer;Problem+Solver;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+AI+%26+ML;Exploring+Software+Development;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🎓 About Me
 - 🎓 Final Year B.Tech in Computer Science & Engineering (FTC'26)  
-- 💡 Interested in **Artificial Intelligence, Machine Learning & Software Development**  
-- 🚀 Focused on building **real-world impactful projects**  
-- 📈 Actively improving problem-solving & development skills  
+- 🌱 Currently learning and exploring **AI, Machine Learning & Development**  
+- 💡 Interested in building **real-world projects while improving my skills**  
+- 🚀 Focused on **continuous learning and growth**  
 
 ---
 
-## 🧠 Current Work
-- 🍎 **Pomegranate Fruit Disease Detection using Teachable Machine**  
-- 📊 Exploring **Data Analysis & Visualization using Python**  
-- 💻 Strengthening **Data Structures & Core CS concepts**  
+## 🧠 What I'm Learning & Working On
+- 🍎 Pomegranate Fruit Disease Detection (ML Project)  
+- 📊 Basics of **Data Analysis using Python**  
+- 💻 Strengthening **DSA & core concepts step by step**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills (Learning & Practicing)
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-Practicing-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Practicing-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
+### 🤖 Exploring
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-lightgrey?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Exploring-lightgrey?style=for-the-badge)
 
 ---
 
 ## 🚀 Projects
 - 🍎 **Pomegranate Fruit Disease Detection**  
-  → Machine learning-based solution using Teachable Machine  
+  → Learning-based ML project using Teachable Machine  
 
-- 📊 **Data Analysis Projects**  
-  → Data cleaning, visualization & insights using Python  
+- 📊 **Data Analysis Practice Projects**  
+  → Practicing Python for data handling & visualization  
 
-- 🌐 **Web Development Projects**  
-  → Responsive and user-friendly websites  
+- 🌐 **Web Development Practice**  
+  → Building simple and responsive websites  
 
 ---
 
@@ -57,23 +57,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kore193&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kore193&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎯 Goals
-- 📄 Publish a research paper in AI/ML domain  
-- 💻 Become a skilled software developer  
-- 🚀 Build impactful and scalable projects  
+- 📚 Improve problem-solving and coding skills  
+- 🚀 Build better and more advanced projects  
+- 💼 Become a skilled software developer  
 
 ---
 
 ## 🤝 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/sushant-kore 
-- 🌐 Portfolio: Coming Soon...  
+- 💼 LinkedIn: (Add soon)  
 
 ---
 
-⭐ *"Consistency and learning drive success."*
+⭐ *"Learning today, improving every day."*
