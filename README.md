@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sushant Kore</h1>
-<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software & Data Science Developer</h3>
+<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer & Data Analyst </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+DSA+with+Focus;Exploring+Data+Science+%26+Analytics;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning;Exploring+Data+Science+%26+Analytics;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=520&height=45">
 </p>
 
 ---
 
 ## 🎓 About Me
 - 🎓 Final Year B.Tech in Computer Science & Engineering (FTC'26)  
-- 🌱 Currently focused on **Data Structures & Algorithms (DSA)**  
-- 📊 Learning **Data Science & Data Analytics**  
+- 📊 Learning **Data Analytics**  
 - 💡 Interested in solving real-world problems through technology  
 - 🚀 Believer in **consistent learning and gradual improvement**  
 
 ---
 
 ## 🧠 Current Focus
-- 🧠 Strengthening **DSA for problem-solving & placements**  
+- 🧠 Strengthening **Problem-solving & placements**  
 - 📊 Practicing **Python for Data Analysis (Pandas, Visualization)**  
 - 🍎 Working on **Pomegranate Fruit Disease Detection Project**  
 
@@ -29,10 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
 
-### 🧠 Core Focus
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-In%20Progress-yellow?style=for-the-badge)
-
-### 📊 Data Science & Analytics
+### 📊 Data Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-Practicing-lightgrey?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Learning-lightgrey?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Data_Visualization-Learning-lightgrey?style=for-the-badge)
@@ -62,6 +58,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kore193&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kore193&theme=tokyonight" />
+</p>
 ---
 
 ## 🎯 Goals
@@ -73,7 +72,7 @@
 ---
 
 ## 🤝 Connect
-- 💼 LinkedIn: (Add soon)
+- 💼 LinkedIn: https://www.linkedin.com/in/sushant-kore
 
 ---
 
