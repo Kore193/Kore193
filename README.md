@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sushant Kore</h1>
-<h3 align="center">🚀 Final Year B.Tech CSE Student | AI Builder | Future-Ready Developer</h3>
+<h3 align="center">🎓 Final Year B.Tech CSE Student | AI & Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%7C+ML+Enthusiast;Software+Developer;Problem+Solver;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🎓 About Me
-🎓 Final Year B.Tech in Computer Science & Engineering (FTC'26)  
-💡 Passionate about building **real-world solutions using AI & technology**  
-🚀 Focused on becoming **industry-ready while earning through skills**  
+- 🎓 Final Year B.Tech in Computer Science & Engineering (FTC'26)  
+- 💡 Interested in **Artificial Intelligence, Machine Learning & Software Development**  
+- 🚀 Focused on building **real-world impactful projects**  
+- 📈 Actively improving problem-solving & development skills  
 
 ---
 
-## 🧠 What I'm Doing
-- 🍎 Building **Pomegranate Fruit Disease Detection (ML Project)**  
-- 🌐 Creating **AI-powered full-stack websites for real clients**  
+## 🧠 Current Work
+- 🍎 **Pomegranate Fruit Disease Detection using Teachable Machine**  
 - 📊 Exploring **Data Analysis & Visualization using Python**  
+- 💻 Strengthening **Data Structures & Core CS concepts**  
 
 ---
 
@@ -38,15 +39,15 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 - 🍎 **Pomegranate Fruit Disease Detection**  
-  → Built using Teachable Machine for real-world agriculture problem  
-
-- 🌐 **AI Generated Business Websites**  
-  → End-to-end websites for cafes, dentists & local businesses  
+  → Machine learning-based solution using Teachable Machine  
 
 - 📊 **Data Analysis Projects**  
-  → Insights & visualization using Python  
+  → Data cleaning, visualization & insights using Python  
+
+- 🌐 **Web Development Projects**  
+  → Responsive and user-friendly websites  
 
 ---
 
@@ -62,17 +63,17 @@
 
 ---
 
-## 🎯 Current Goals
-- 📄 Publish a **research paper** on ML project  
-- 💼 Earn through **freelancing & development projects**  
-- 🚀 Build **impactful AI-based solutions**  
+## 🎯 Goals
+- 📄 Publish a research paper in AI/ML domain  
+- 💻 Become a skilled software developer  
+- 🚀 Build impactful and scalable projects  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/sushant-kore 
 - 🌐 Portfolio: Coming Soon...  
-- 💼 LinkedIn: (Add soon)  
 
 ---
 
-⭐ *"Building skills today for opportunities tomorrow."*
+⭐ *"Consistency and learning drive success."*
