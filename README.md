@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sushant Kore</h1>
-<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer</h3>
+<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software & Data Science Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+AI+%26+ML;Exploring+Software+Development;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning+DSA+with+Focus;Exploring+Data+Science+%26+Analytics;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=520&height=45">
 </p>
 
 ---
 
 ## 🎓 About Me
 - 🎓 Final Year B.Tech in Computer Science & Engineering (FTC'26)  
-- 🌱 Currently learning and exploring **AI, Machine Learning & Development**  
-- 💡 Interested in building **real-world projects while improving my skills**  
-- 🚀 Focused on **continuous learning and growth**  
+- 🌱 Currently focused on **Data Structures & Algorithms (DSA)**  
+- 📊 Learning **Data Science & Data Analytics**  
+- 💡 Interested in solving real-world problems through technology  
+- 🚀 Believer in **consistent learning and gradual improvement**  
 
 ---
 
-## 🧠 What I'm Learning & Working On
-- 🍎 Pomegranate Fruit Disease Detection (ML Project)  
-- 📊 Basics of **Data Analysis using Python**  
-- 💻 Strengthening **DSA & core concepts step by step**  
+## 🧠 Current Focus
+- 🧠 Strengthening **DSA for problem-solving & placements**  
+- 📊 Practicing **Python for Data Analysis (Pandas, Visualization)**  
+- 🍎 Working on **Pomegranate Fruit Disease Detection Project**  
 
 ---
 
@@ -28,26 +29,30 @@
 ![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python)
 
-### 🌐 Web Development
+### 🧠 Core Focus
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-In%20Progress-yellow?style=for-the-badge)
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-Practicing-lightgrey?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Learning-lightgrey?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Data_Visualization-Learning-lightgrey?style=for-the-badge)
+
+### 🌐 Web Development (Basics)
 ![HTML](https://img.shields.io/badge/HTML-Practicing-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-Practicing-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow?style=for-the-badge&logo=javascript)
-
-### 🤖 Exploring
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-lightgrey?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Exploring-lightgrey?style=for-the-badge)
 
 ---
 
 ## 🚀 Projects
 - 🍎 **Pomegranate Fruit Disease Detection**  
-  → Learning-based ML project using Teachable Machine  
+  → ML-based project using Teachable Machine (learning-focused implementation)  
 
 - 📊 **Data Analysis Practice Projects**  
-  → Practicing Python for data handling & visualization  
+  → Working with datasets using Python  
 
 - 🌐 **Web Development Practice**  
-  → Building simple and responsive websites  
+  → Building simple and responsive web interfaces  
 
 ---
 
@@ -60,15 +65,16 @@
 ---
 
 ## 🎯 Goals
-- 📚 Improve problem-solving and coding skills  
-- 🚀 Build better and more advanced projects  
-- 💼 Become a skilled software developer  
+- 📚 Improve DSA & problem-solving skills  
+- 📊 Become confident in Data Science & Analytics  
+- 🚀 Build strong real-world projects  
+- 💼 Prepare for software development roles  
 
 ---
 
 ## 🤝 Connect
-- 💼 LinkedIn: (Add soon)  
+- 💼 LinkedIn: (Add soon)
 
 ---
 
-⭐ *"Learning today, improving every day."*
+⭐ *"Learning step by step, improving every day."*
