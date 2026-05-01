@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushant Kore</h1>
+<h1 align="center">Hi 👋, I'm Sushaant Kore</h1>
 <h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer & Data Analyst </h3>
 
 <p align="center">
