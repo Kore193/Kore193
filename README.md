@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sushaant Kore</h1>
-<h3 align="center">🎓 B.Tech CSE Student | Aspiring Software Developer & Data Analyst </h3>
+<h3 align="center">🎓 B.Tech CSE Student | Aspiring Data Analyst </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning;Exploring+Data+Science+%26+Analytics;Building+Projects+Step+by+Step;Consistent+Learner&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Learning;Exploring+Data+Science+%26+Analytics;Building+Projects+Step+by+Step&center=true&width=520&height=45">
 </p>
 
 ---
